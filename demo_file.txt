@@ -1,0 +1,5 @@
+This is a MODIFIED sample text file.
+This is a sample text file.
+Java File Operations Demonstration
+Appended line 1
+Appended line 2
